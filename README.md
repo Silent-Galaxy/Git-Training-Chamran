@@ -27,9 +27,4 @@
 
 
 
-
-
-
-
-
-   - *امیرعلی صالح پور* – [SilentGalaxy](https://github.com/Silent-Galaxy)
+      - *امیرعلی صالح پور* – [SilentGalaxy](https://github.com/Silent-Galaxy)
