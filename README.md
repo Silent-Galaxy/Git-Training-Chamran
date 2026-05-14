@@ -17,4 +17,14 @@
 
 1. **هر عضو باید بخش زیر را در فایل `README.md` اضافه کند**  
    ```markdown
-   - **نام مجازی** – *نام و نام خانوادگی* – [GitHub](https://github.com/your-username)
+   *نام و نام خانوادگی* – [نام مجازی شما](https://github.com/your-username)
+
+
+
+
+
+
+
+
+
+   *امیرعلی صالح پور* – [SilentGalaxy](https://github.com/Silent-Galaxy)
