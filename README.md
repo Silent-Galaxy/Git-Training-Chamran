@@ -1,9 +1,8 @@
-# 📚 پروژه ریپازیستوری گروهی  
-## (Group Repository Project)
+# 📚 پروژه ریپازیستوری گروهی (Group Repository Project)
 
 ---
 
-## 🎯 هدف از این پروژه / Objectives of this project  
+## 🎯 هدف از این پروژه / Objectives of this project
 
 | فارسی | English |
 |-------|---------|
@@ -13,18 +12,19 @@
 
 ---
 
-## 📄 دستورالعمل برای اضافه کردن اطلاعات / How to Add Your Information  
+## 📄 دستورالعمل برای اضافه کردن اطلاعات / How to Add Your Information
 
-1. **هر عضو باید بخش زیر را در فایل `README.md` اضافه کند**  
+1. **هر عضو باید بخش زیر را در فایل `README.md` اضافه کند:**
+
    ```markdown
    - *نام و نام خانوادگی* – [نام مجازی شما](https://github.com/your-username)
 
 
 
 
+## 👥 اعضای تیم / Team Members
 
+- *امیرعلی صالح پور* – [SilentGalaxy](https://github.com/Silent-Galaxy)
 
-
-
-
-      - *امیرعلی صالح پور* – [SilentGalaxy](https://github.com/Silent-Galaxy)
+<!-- Add your information below -->
+```
